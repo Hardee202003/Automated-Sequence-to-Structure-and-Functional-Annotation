@@ -1,4 +1,3 @@
-```markdown
 # Automated-Sequence-to-Structure-and-Functional-Annotation
 
 # An API-Driven Framework for the Automated Sequence-to-Structure and Functional Annotation of Novel Protein Families
